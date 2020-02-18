@@ -10,6 +10,8 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
+
+/* I like this better than having to set and id for every div :)
 div {
   border-top-color: #f00;
 }
@@ -37,3 +39,4 @@ div div div div div div  {
 div div div div div div div  {
   border-top-color: #d300c9;
 }
+ */
