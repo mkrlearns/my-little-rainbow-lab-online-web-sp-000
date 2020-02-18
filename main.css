@@ -22,18 +22,18 @@ div div div {
   background-color: #ff0;
 }
 
-div:nth-child(4) {
+div div div div  {
   background-color: #00bc3f;
 }
 
-div:nth-child(5) {
+div div div div div  {
   background-color: #06f;
 }
 
-div:nth-child(6) {
+div div div div div div  {
   background-color: #8a2be2;
 }
 
-div:nth-child(7) {
+div div div div div div div  {
   background-color: #d300c9;
 }
