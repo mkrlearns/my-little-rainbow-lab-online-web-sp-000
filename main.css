@@ -10,11 +10,11 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-div:nth-child(1) {
+div {
   border-top-color: #f00;
 }
 
-div:nth-child(2) {
+div div {
   border-top-color: #ffa500;
 }
 
