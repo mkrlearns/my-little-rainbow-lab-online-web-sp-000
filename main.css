@@ -8,17 +8,14 @@ div {
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
-}
-
-#parent {
   border-top-color: #f00;
 }
 
-#parent div:nth-child(1) {
+div div {
   border-top-color: #ffa500;
 }
 
-#parent div:nth-child(2) {
+div div div {
   border-top-color: #ff0;
 }
 
