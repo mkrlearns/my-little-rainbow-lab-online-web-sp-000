@@ -19,21 +19,21 @@ div div {
 }
 
 div div div {
-  background-color: #ff0;
+  border-top-color: #ff0;
 }
 
 div div div div  {
-  background-color: #00bc3f;
+  border-top-color: #00bc3f;
 }
 
 div div div div div  {
-  background-color: #06f;
+  border-top-color: #06f;
 }
 
 div div div div div div  {
-  background-color: #8a2be2;
+  border-top-color: #8a2be2;
 }
 
 div div div div div div div  {
-  background-color: #d300c9;
+  border-top-color: #d300c9;
 }
