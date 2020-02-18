@@ -18,7 +18,7 @@ div div {
   border-top-color: #ffa500;
 }
 
-div:nth-child(3) {
+div div div {
   background-color: #ff0;
 }
 
