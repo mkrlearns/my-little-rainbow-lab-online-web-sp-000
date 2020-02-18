@@ -11,7 +11,7 @@ div {
 }
 
 div {
-  background-color: #f00;
+  border-top-color: #f00;
 }
 
 div:nth-child(2) {
