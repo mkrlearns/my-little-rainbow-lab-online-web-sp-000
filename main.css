@@ -15,7 +15,7 @@ div {
   border-top-color: #ffa500;
 }
 
-div div div {
+#parent > div:nth-of-type(2)  {
   border-top-color: #ff0;
 }
 
